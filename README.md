@@ -28,4 +28,4 @@ I'm a Computer Science student passionate about DevOps, Cloud Computing, and Aut
 Become a Professional DevOps Engineer and contribute to real-world cloud projects.
 
 ### 📫 Connect With Me
-LinkedIn: (Apna LinkedIn Link yahan add karna)
+LinkedIn: (https://www.linkedin.com/in/huzoor-laghari-776655377)
