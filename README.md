@@ -1,35 +1,37 @@
-Hi 👋, I'm Hazoor Laghari
+👋 Hi, I'm Hazoor Laghari
 
-💻 Cloud & DevOps Engineer
-☁️ Passionate about AWS, Terraform, Docker & CI/CD
-🐧 Linux & Infrastructure Automation Enthusiast
-⚙️ Interested in Ansible, Kubernetes & Cloud Architecture
-🚀 Always learning, building and improving
+Cloud & DevOps Engineer | AWS | Terraform | Docker | CI/CD | Linux
+
+I am a Computer Science student focused on Cloud Computing, DevOps, Infrastructure Automation, and modern deployment practices.
+
+I build and automate cloud infrastructure using AWS and Terraform, containerize applications with Docker, and design reliable CI/CD workflows. My focus is on developing practical, scalable, and production-oriented solutions rather than learning tools in isolation.
 
 ---
 
 🧑‍💻 About Me
 
-🎓 Computer Science Student exploring Cloud Computing & DevOps
-☁️ Hands-on experience with AWS Cloud Infrastructure
-🏗️ Building Infrastructure as Code using Terraform
-🐳 Containerizing applications with Docker & Docker Compose
-🔄 Building automated CI/CD pipelines with Jenkins
-🌐 Working with Nginx, Linux servers & networking
-📚 Focused on practical, real-world DevOps projects
-🎯 Goal: Become a Professional Cloud & DevOps Engineer
+- 🎓 Computer Science Student
+- ☁️ Focused on AWS Cloud & Infrastructure
+- 🏗️ Building Infrastructure as Code with Terraform
+- 🐳 Containerizing applications with Docker & Docker Compose
+- 🔄 Designing automated CI/CD pipelines
+- 🐧 Working with Linux, Bash & Nginx
+- ⚙️ Learning Ansible & Kubernetes
+- 📊 Exploring Monitoring, Logging & Observability
+- 🚀 Focused on hands-on, real-world DevOps projects
+- 🎯 Career goal: Cloud / DevOps Engineer
 
 ---
 
-🛠️ Tech Stack
-
-💻 Programming & Version Control
-
-"Python" "Bash" "Git" "GitHub"
+🛠️ Technical Skills
 
 ☁️ Cloud & Infrastructure
 
-"AWS" "Terraform" "EC2" "S3" "VPC" "IAM" "RDS" "ALB"
+"AWS" "EC2" "VPC" "S3" "IAM" "RDS" "ALB" "ECS" "EKS" "Lambda"
+
+🏗️ Infrastructure as Code
+
+"Terraform"
 
 🐳 Containers
 
@@ -39,107 +41,140 @@ Hi 👋, I'm Hazoor Laghari
 
 "Jenkins" "GitHub Actions" "Ansible"
 
-🐧 Linux & Web Servers
+🐧 Operating Systems & Servers
 
-"Linux" "Ubuntu" "Nginx"
+"Linux" "Ubuntu" "Bash" "Nginx"
 
-📊 Monitoring & Logging
+🔧 Version Control
+
+"Git" "GitHub"
+
+📊 Monitoring & Observability
 
 "Prometheus" "Grafana" "Loki"
+
+💻 Programming
+
+"Python"
 
 ---
 
 🚀 Featured Projects
 
-📚 AWS Book Inventory Management System
+📚 Production-Ready Book Inventory Infrastructure
 
-🏗️ Production-oriented infrastructure built using AWS + Terraform + Docker
+AWS • Terraform • Docker
 
-- AWS cloud infrastructure
-- Infrastructure as Code
-- Dockerized application
+Designed and provisioned cloud infrastructure for a containerized application using Infrastructure as Code.
+
+Key Focus:
+
+- AWS infrastructure provisioning
+- Terraform-based automation
+- Dockerized application deployment
 - Networking & security
-- Automated deployment
+- Reproducible infrastructure
 
 ---
 
-📝 Task Manager DevOps Project
+📝 Task Manager — DevOps Deployment
 
-🐳 Docker + Nginx + Jenkins + CI/CD
+Docker • Nginx • Jenkins • GitHub
 
-- Containerized application
+Containerized application deployment with a reverse proxy and automated CI/CD workflow.
+
+Key Focus:
+
+- Docker containerization
 - Nginx reverse proxy
-- Jenkins CI/CD pipeline
+- Jenkins CI/CD
 - GitHub integration
-- Automated deployment workflow
+- Automated application deployment
 
 ---
 
 📊 Monitoring & Logging Stack
 
-📈 Prometheus + Grafana + Loki + Docker Compose
+Prometheus • Grafana • Loki • Docker Compose
 
-- Metrics monitoring
-- Log aggregation
-- Dashboards & visualization
-- Containerized observability stack
+Built a containerized observability environment for monitoring infrastructure and collecting application/system logs.
 
----
+Key Focus:
 
-📚 Currently Learning
-
-⚙️ Ansible
-☸️ Kubernetes
-☁️ Advanced AWS
-🏗️ Production-Grade Cloud Architecture
-🔐 DevOps Security & Best Practices
+- Metrics collection
+- Monitoring dashboards
+- Centralized logging
+- Containerized observability
 
 ---
 
-🎯 Goals for 2026
+📈 DevOps Journey
 
-☑️ Build production-ready DevOps projects
-☑️ Master Infrastructure as Code with Terraform
-☑️ Master Ansible & Kubernetes
-☑️ Deepen AWS Cloud knowledge
-☑️ Improve CI/CD & automation skills
-☑️ Learn production monitoring & observability
-☑️ Contribute to real-world projects
-🎯 Land a Cloud / DevOps Engineer role
+Linux
+  ↓
+Git & GitHub
+  ↓
+Docker & Containers
+  ↓
+CI/CD
+  ↓
+AWS Cloud
+  ↓
+Terraform & Infrastructure as Code
+  ↓
+Ansible
+  ↓
+Kubernetes
+  ↓
+Production-Grade DevOps
 
----
 
-📊 GitHub Stats
 
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=HuzoorLaghari&show_icons=true&theme=tokyonight)
+🎯 2026 Goals
 
----
+- Build production-grade cloud infrastructure
+- Master Terraform & Infrastructure as Code
+- Become proficient with Ansible
+- Master Kubernetes & container orchestration
+- Deepen AWS architecture & security knowledge
+- Build robust CI/CD pipelines
+- Improve monitoring & observability
+- Contribute to real-world projects
+- Grow into a professional Cloud & DevOps Engineer
 
-🔥 GitHub Streak
 
-"GitHub Streak" (https://streak-stats.demolab.com?user=HuzoorLaghari&theme=tokyonight)
 
----
+📊 GitHub Analytics
 
-📈 Top Languages
+"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=HuzoorLaghari&show_icons=true&theme=tokyonight&hide_border=true)
 
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=HuzoorLaghari&layout=compact&theme=tokyonight)
+"GitHub Streak" (https://streak-stats.demolab.com?user=HuzoorLaghari&theme=tokyonight&hide_border=true)
 
----
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=HuzoorLaghari&layout=compact&theme=tokyonight&hide_border=true)
 
-📫 Connect With Me
 
-💼 LinkedIn: "Hazoor Laghari" (https://www.linkedin.com/)
+
+🤝 Let's Connect
+
+I'm open to DevOps opportunities, internships, collaborative projects, and cloud-focused work.
+
+📧 Email: huzoorlaghari110@gmail.com
+📱 Phone: 03123190483
+💼 LinkedIn: "Connect with me" (https://www.linkedin.com/)
 🐙 GitHub: "HuzoorLaghari" (https://github.com/HuzoorLaghari)
 
+
+
+💡 Philosophy
+
+«Automate what can be automated.
+Build infrastructure that can be reproduced.
+Deploy with confidence.
+Monitor everything that matters.
+Keep learning. Keep building.»
+
 ---
 
-⭐ Motivation
+⭐ Thanks for visiting my profile!
 
-«"Consistency beats motivation. Small daily progress leads to big results."»
-
----
-
-💡 Thanks for visiting my profile!
-
-⭐ Build • Automate • Deploy • Learn • Repeat 🚀
+Cloud • Automation • Infrastructure • DevOps 🚀
