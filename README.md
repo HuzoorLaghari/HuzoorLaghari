@@ -159,8 +159,11 @@ Production-Grade DevOps
 I'm open to DevOps opportunities, internships, collaborative projects, and cloud-focused work.
 
 📧 Email: huzoorlaghari110@gmail.com
+
 📱 Phone: 03123190483
+
 💼 LinkedIn: "Connect with me" (https://www.linkedin.com/)
+
 🐙 GitHub: "HuzoorLaghari" (https://github.com/HuzoorLaghari)
 
 
